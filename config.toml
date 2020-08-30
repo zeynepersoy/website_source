@@ -1,0 +1,5 @@
+theme = "hugo-academic"
+baseURL = "https://zeynepersoy.com/"
+languageCode = "en-us"
+title = "Zeynep Ersoy"
+publishDir = "../zeynepersoy.github.io"
