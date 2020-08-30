@@ -1,6 +1,5 @@
 .DS_Store
 public/
-themes/
 
 # IDE specific
 .idea/
