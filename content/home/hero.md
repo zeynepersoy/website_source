@@ -24,7 +24,7 @@ weight = 3
   label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-ONUR WAS HERE. Create a beautifully simple site in under 10 minutes :rocket:
+Create a beautifully simple site in under 10 minutes :rocket:
 <div style="margin-top: -0.5rem;">
   <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
   Latest release <!-- V -->
