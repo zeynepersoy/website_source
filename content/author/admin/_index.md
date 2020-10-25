@@ -105,4 +105,4 @@ interests = [
 
 +++
 
-I'm an aquatic ecologist interested in biotic and environmental factors shaping trophic interactions in freshwater food webs from fish to phytoplankton. I focus mainly on body size structure as an alternative to taxonomy. My study includes various approaches ranging from mesocosm experiments to environmental monitoring in order to investigate prey-predator interactions, energy transfer and ecosystem functioning.
+I'm an aquatic ecologist interested in biotic and environmental factors shaping trophic interactions in freshwater food webs, focusing mainly on functional traits. My study includes various approaches ranging from mesocosm experiments to environmental monitoring in order to investigate prey-predator interactions, energy transfer, biodiversity and ecosystem functioning.
