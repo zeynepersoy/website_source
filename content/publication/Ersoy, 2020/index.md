@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Global Change Biology"
-publication_short = "Global Change Biology"
+publication_short = "Global Change Biology, 26, 6831-8851"
 
 # Abstract and optional shortened version.
 abstract = "Macrophytes play a key role in the functioning and structuring of shallow lakes. Ongoing climate and land use change are altering simultaneously temperatures, nutrient runoff and water-levels, which are the main drivers of macrophyte growth. In our unique, large-scale Pan-European mesocosm experiment along a temperature gradient from Sweden to Greece, we investigated the interacting effect of temperature, nutrients (mesotrophic vs eutrophic conditions) and water-level (shallow vs deep) on the macrophyte growth. Our results showed that positive temperature effects on macrophytes are highly dependent on nutrient status and water level. Under eutrophic conditions evaporation-driven water-level change, impacting underwater light-conditions, can act as a switch for whether macrophytes maintain dominance or are out-competed by algae. Thus, water-level change can compensate for negative effects of eutrophication by enhancing light availability. However, extreme water level declines will likely decrease the macrophyte biomass, thus their functioning role in the shallow lakes."
