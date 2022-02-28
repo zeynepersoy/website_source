@@ -4,7 +4,7 @@ date = 2022-02-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["M. P. Hébert, C.C Symons, M. Cañedo-Argüelles, S.E. Arnott, A.M. Derry, V. Fugère, W.D. Hintz, S.J. Melles, L. Astorg, H.K. Baker, J.A. Brentrup, A.L. Downing, **Z. Ersoy**} et al.]
+authors = ["MP Hébert", "CC Symons", "M Cañedo-Argüelles", "SE Arnott", "AM Derry", "V Fugère", "WD Hintz", "SJ Melles", "L Astorg", "HK Baker", "JA Brentrup", "AL Downing", "**Z Ersoy** et al."]
 
 
 # Publication type.
@@ -26,7 +26,7 @@ publication_short = "Limnology & Oceanography Letters"
 abstract = "Human-induced salinization increasingly threatens inland waters; yet we know little about the multifaceted response of lake communities to salt contamination. By conducting a coordinated mesocosm experiment of lake salinization across 16 sites in North America and Europe, we quantified the response of zooplankton abundance and (taxonomic and functional) community structure to a broad gradient of environmentally relevant chloride concentrations, ranging from 4 to ca. 1400 mg Cl− L−1. We found that crustaceans were distinctly more sensitive to elevated chloride than rotifers; yet, rotifers did not show compensatory abundance increases in response to crustacean declines. For crustaceans, our among-site comparisons indicate: (1) highly consistent decreases in abundance and taxon richness with salinity; (2) widespread chloride sensitivity across major taxonomic groups (Cladocera, Cyclopoida, and Calanoida); and (3) weaker loss of functional than taxonomic diversity. Overall, our study demonstrates that aggregate properties of zooplankton communities can be adversely affected at chloride concentrations relevant to anthropogenic salinization in lakes."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

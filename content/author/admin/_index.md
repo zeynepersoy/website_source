@@ -104,5 +104,4 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
-
-I'm an aquatic ecologist interested in biotic and environmental factors shaping trophic interactions in freshwater food webs, focusing mainly on functional traits. My study includes various approaches ranging from mesocosm experiments to environmental monitoring in order to investigate prey-predator interactions, energy transfer, biodiversity and ecosystem functioning.
+I'm an early-career aquatic ecologist with extensive international experience. My research centers on understanding the response of **aquatic food webs** to global climate crisis and other environmental perturbations such as eutrophication, salinization and drought, using approaches ranging from **mesocosm experiments** to **biodiversity monitoring** to investigate trophic interactions, energy transfer, ecosystem functioning and health.
