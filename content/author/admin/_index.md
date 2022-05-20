@@ -10,7 +10,7 @@ role = "Postdoctoral Researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "The “Rui Nabeiro” Biodiversity Chair, Universidade de Évora", url="" }]
+organizations = [ { name = "FEHM-Lab (Freshwater Ecology, Hydrology and Management), Universitat de Barcelona", url="" }]
 
 # Short bio (displayed in user profile at end of posts)
 #bio = "My research interests include trophic interactions, mobile computing and programmable matter."
