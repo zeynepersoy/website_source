@@ -129,8 +129,8 @@ sharing = true
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "January 2006"
 
-# Configuration of project pages.
-[projects]
+# Configuration of research pages.
+[research]
   # Post list format.
   #   0 = Simple
   #   1 = Detailed

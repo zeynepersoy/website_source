@@ -32,9 +32,9 @@ featured = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
+#   `content/project/size/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = ["size"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
