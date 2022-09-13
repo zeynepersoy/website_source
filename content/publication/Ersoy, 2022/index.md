@@ -5,7 +5,7 @@ draft = false
 unsafe = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Z Ersoy", " M Abril", M Cañedo-Argüelles", "C Espinosa", "L Vendrell-Puigmitja", "L Proia"]
+authors = ["**Z Ersoy**", "M Abril", "M Cañedo-Argüelles", "C Espinosa", "L Vendrell-Puigmitja", "L Proia"]
 
 # Publication type.
 # Legend:
