@@ -19,7 +19,7 @@ authors = ["SE Arnott", "V Fugère", "CC Symons", "SJ Melles", "BE Beisner", "M 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "accepted in Limnology & Oceanography Letters"
+publication = "Limnology & Oceanography Letters"
 publication_short = "Limnology & Oceanography Letters"
 
 # Abstract and optional shortened version.
@@ -49,14 +49,14 @@ tags = []
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-#url_source = "#"
+#url_source = "https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10277"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = ""}]
 
 # Digital Object Identifier (DOI)
-#doi = ""
+#doi = "https://doi.org/10.1002/lol2.10277"
 
 # Does this page contain LaTeX math? (true/false)
 math = false

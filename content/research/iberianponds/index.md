@@ -54,9 +54,9 @@ See more about Iberian Ponds here: http://www.iberianponds.uevora.pt
 
 **Relevant publications**
 
-**Ersoy,Z.**,Castillo-Escrivà,A.,Pereira,CL.,Sroczynska,K.,Ribeiro,S.,Araújo,MB.,Matias,MG.Environment mediates body mass-abundance scaling regardless of species richness. Under revision in Ecology
+**Ersoy, Z.**, Castillo-Escrivá, A., Pereira, CL., Raposeiro, PM., Sroczynska, K., Araújo, MB., Matias, MG. Environment mediates body mass-abundance scaling regardless of species richness. Under revision in Ecology.
 
-Pereira, CL.‡, **Ersoy, Z.** Gravel, D., Araújo, MB., Matias, MG. Future-proofing environmental DNA and trait- based predictions of food webs. Under revision in Trends in Ecology and Evolution
+Pereira, CL., **Ersoy, Z.** Gravel, D., Araújo, MB., Matias, MG. Future-proofing environmental DNA and trait- based predictions of food webs. Under revision in Trends in Ecology and Evolution
 
 
 

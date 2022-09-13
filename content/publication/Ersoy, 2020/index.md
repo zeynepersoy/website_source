@@ -19,7 +19,7 @@ authors = ["**Z Ersoy**", "U Scharfenberger", "DL Baho", "T Bucak", "T Feldmann"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Global Change Biology"
+publication = "Global Change Biology, 26, 6831-8851"
 publication_short = "Global Change Biology, 26, 6831-8851"
 
 # Abstract and optional shortened version.
