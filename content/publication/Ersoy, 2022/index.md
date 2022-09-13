@@ -41,7 +41,7 @@ projects = ["internal-project"]
 tags = []
 
 # Links (optional).
-#url_pdf = "files/Ersoy et al 2022.pdf"
+url_pdf = "files/Ersoy et al 2022.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
@@ -49,14 +49,14 @@ tags = []
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-#url_source = "https://www.sciencedirect.com/science/article/pii/S0269749122013410"
+url_source = "https://www.sciencedirect.com/science/article/pii/S0269749122013410"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = ""}]
 
 # Digital Object Identifier (DOI)
-#doi = "https://doi.org/10.1016/j.envpol.2022.120127"
+doi = "https://doi.org/10.1016/j.envpol.2022.120127"
 
 # Does this page contain LaTeX math? (true/false)
 math = false

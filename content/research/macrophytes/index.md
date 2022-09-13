@@ -50,5 +50,5 @@ In our unique, large-scale Pan-European experiment along a temperature gradient,
 
 **Relevant publications**
 
-**Z Ersoy**, U Scharfenberger, DL Baho, T Bucak, T Feldmann, J Hejzlar, EE Levi, A Mahdy, T Noges, E Papastergiadou, K Stefanidis, M Sondergaard, C Trigal, E Jeppesen, M Beklioglu (2020). Impact of nutrients and water level changes on submerged macrophytes along a temperature gradient: a Pan-European mesocosm experiment. Global Change Biology, 26, 6831-8851.
+**Z Ersoy**, U Scharfenberger, DL Baho, T Bucak, T Feldmann, J Hejzlar, EE Levi, A Mahdy, T Noges, E Papastergiadou, K Stefanidis, M Sondergaard, C Trigal, E Jeppesen, M Beklioglu (2020). Impact of nutrients and water level changes on submerged macrophytes along a temperature gradient: a Pan-European mesocosm experiment. Global Change Biology, 26, 6831-8851. https://doi.org/10.1111/gcb.15338
 

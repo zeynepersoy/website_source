@@ -49,13 +49,13 @@ Salinization caused by use of road decicing salts, agriculture and climate warmi
 
 **Relevant publications**
  
-**Ersoy, Z.**, Cañedo-Argüelles, M., Espinosa-Angona, C., Vendrell-Puigmitja, L., Proia, L. Experimental as- sessment of salinization effects on freshwater zooplankton communities and their trophic interactions under eutrophic conditions. Under revision in Environmental Pollution
+**Ersoy, Z.**, Cañedo-Argüelles, M., Espinosa-Angona, C., Vendrell-Puigmitja, L., Proia, L. Experimental as- sessment of salinization effects on freshwater zooplankton communities and their trophic interactions under eutrophic conditions.Environmental Pollution, Environmental Pollution, 313, 120127. https://doi.org/10.1016/j.envpol.2022.120127
 
- WD Hintz, SE Arnott, CC Symons, DA Greco, A McClymont, JA Brentrup, M Cañedo-Argüelles, AM Derry, AL Downing, DK Gray, SJ Melles, RA Relyea, J Rusak, CL Searle, L Astorg, HK Baker, BE Beisner, KL Cottingham, **Z Ersoy** et al. (2022). Current water quality guidelines across North America and Europe do not protect lakes from salinization. Proceedings of the National Academy of Sciences, 119 (9) e2115033119.
+WD Hintz, SE Arnott, CC Symons, DA Greco, A McClymont, JA Brentrup, M Cañedo-Argüelles, AM Derry, AL Downing, DK Gray, SJ Melles, RA Relyea, J Rusak, CL Searle, L Astorg, HK Baker, BE Beisner, KL Cottingham, **Z Ersoy** et al. (2022). Current water quality guidelines across North America and Europe do not protect lakes from salinization. Proceedings of the National Academy of Sciences, 119 (9) e2115033119. https://doi.org/10.1073/pnas.2115033119
 
-MP Hébert, CC Symons, M Cañedo-Argüelles, SE Arnott, AM Derry, V Fugère, WD Hintz, SJ Melles, L Astorg, HK Baker, JA Brentrup, AL Downing, **Z Ersoy** et al. (2022). Lake salinization drives consistent losses of zooplankton abundance and diversity across coordinated mesocosm experiments. Limnology & Oceanography Letters.https://doi.org/10.1002/lol2.10239
+MP Hébert, CC Symons, M Cañedo-Argüelles, SE Arnott, AM Derry, V Fugère, WD Hintz, SJ Melles, L Astorg, HK Baker, JA Brentrup, AL Downing, **Z Ersoy** et al. (2022). Lake salinization drives consistent losses of zooplankton abundance and diversity across coordinated mesocosm experiments. Limnology & Oceanography Letters. https://doi.org/10.1002/lol2.10239
 
-SE Arnott, V Fugère, CC Symons, SJ Melles, BE Beisner, M Cañedo-Argüelles, MP Hébert, JA Brentrup, AL Downing, DK Gray, DA Greco, A McClymont, RA Relyea, J Rusak, CL Searle, L Astorg, HK Baker, **Z Ersoy** et al. (2022). Widespread variation in salt tolerance within freshwater zooplankton species reduces the predictability of community-level salt tolerance. Accepted in Limnology & Oceanography Letters.
+SE Arnott, V Fugère, CC Symons, SJ Melles, BE Beisner, M Cañedo-Argüelles, MP Hébert, JA Brentrup, AL Downing, DK Gray, DA Greco, A McClymont, RA Relyea, J Rusak, CL Searle, L Astorg, HK Baker, **Z Ersoy** et al. (2022). Widespread variation in salt tolerance within freshwater zooplankton species reduces the predictability of community-level salt tolerance. Limnology & Oceanography Letters. https://doi.org/10.1002/lol2.10277
 
 
 

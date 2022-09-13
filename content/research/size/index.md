@@ -48,10 +48,10 @@ Individual size-based interactions play a significant role in the community dyna
 
 **Relevant publications**
 
-**Z Ersoy**, S Brucet, M Bartrons, T Mehner (2019). Experimental tests of fish predation on zooplankton, and recovery rate of zooplankton community structure after stop of predation. PLoS ONE, 14(2): e0212351.
+**Z Ersoy**, S Brucet, M Bartrons, T Mehner (2019). Experimental tests of fish predation on zooplankton, and recovery rate of zooplankton community structure after stop of predation. PLoS ONE, 14(2): e0212351. https://doi.org/10.1371/journal.pone.0212351
 
-**Z Ersoy**, E Jeppesen, S Sgarzi, I Arranz, M Cañedo-Argüelles, XD Quintana, F Landkildehus, M Bartrons, S Brucet (2017). Size-based interactions and trophic transfer efficiency are modified by fish predation and cyanobacteria blooms in Lake Mývatn, Iceland. Freshwater Biology, 62, 1942-1952.
+**Z Ersoy**, E Jeppesen, S Sgarzi, I Arranz, M Cañedo-Argüelles, XD Quintana, F Landkildehus, M Bartrons, S Brucet (2017). Size-based interactions and trophic transfer efficiency are modified by fish predation and cyanobacteria blooms in Lake Mývatn, Iceland. Freshwater Biology, 62, 1942-1952.  https://doi.org/10.1111/fwb.13039
 
-S Brucet, ÜN Tavşanoğlu, A Özen, E Levi, G Bezirci, Aİ Çakıroğlu, E Jeppesen, JC Svenning, **Z Ersoy**, M Beklioğlu (2017). Size-based interactions across trophic levels of food webs in shallow Mediterranean lakes. Freshwater Biology, 62, 1819-1830.
+S Brucet, ÜN Tavşanoğlu, A Özen, E Levi, G Bezirci, Aİ Çakıroğlu, E Jeppesen, JC Svenning, **Z Ersoy**, M Beklioğlu (2017). Size-based interactions across trophic levels of food webs in shallow Mediterranean lakes. Freshwater Biology, 62, 1819-1830. https://doi.org/10.1111/fwb.12997
 
 

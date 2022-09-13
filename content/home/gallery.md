@@ -86,7 +86,7 @@ album = "gallery"
 image = "Zeynep Ersoy 13.jpg"
 caption = "Chapter published in Field Techniques in Freshwater Biology, 2020, Ankara, Turkey"
 
-[gallery_item]]
+[[gallery_item]]
 album = "gallery"
 image = "Zeynep Ersoy 14.jpg"
 caption = "Biodiversity Chair Retreat, September 2021, Barrancos, Portugal"
