@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Salinization in Freshwater Ecosystems"
+title = "Salinization in freshwater ecosystems"
 
 # Date this page was created.
 date = 2022-06-15T00:00:00
